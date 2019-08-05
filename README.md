@@ -1,6 +1,6 @@
 # Boilerplate for noodling about
 
-https://andymantell.github.io/noodling-skeleton/
+https://pheonnexx.github.io/noodling-skeleton/
 
 ## Commands
 
